@@ -1,33 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@isaac0853 
-peguimasid
-/
-peguimasid
-Public
-Fork your own copy of peguimasid/peguimasid
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-peguimasid/README.md
-@peguimasid
-peguimasid Update README.md
-Latest commit 19997dc 2 weeks ago
- History
- 1 contributor
-64 lines (47 sloc)  8.44 KB
 
-Hi 👋 My name is Guilhermo
+Hi 👋 My name is Isaac
 ==========================
 
 Full Stack Software Developer
@@ -37,12 +9,9 @@ I'm a 19 years old developer and hacking since I was 16. I love to code and figu
 
 I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍  I live in the state of São Paulo, Brazil
+* ✉️  You can contact me at [isaacbandeirapiloto@gmail.com](mailto:isaacbandeirapiloto@gmail.com)
+
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
